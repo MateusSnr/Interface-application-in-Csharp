@@ -12,4 +12,4 @@ Fazer um programa para ler os dados de um contrato (número do contrato, data do
 e valor total do contrato). Em seguida, o programa deve ler o número de meses para
 parcelamento do contrato, e daí gerar os registros de parcelas a serem pagas (data e valor),
 sendo a primeira parcela a ser paga um mês após a data do contrato, a segunda parcela dois
-meses após o contrato e assim por diante. Mostrar os dados das parcelas na tela
+meses após o contrato e assim por diante. Mostrar os dados das parcelas na tela.
