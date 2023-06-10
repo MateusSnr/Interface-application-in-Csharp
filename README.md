@@ -1,5 +1,5 @@
 # Interface-application-in-Csharp
-Use case of Interface application
+Use case of Interface application.
 
 Uma empresa deseja automatizar o processamento de seus contratos. O processamento de
 um contrato consiste em gerar as parcelas a serem pagas para aquele contrato, com base no
